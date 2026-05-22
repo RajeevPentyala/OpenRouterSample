@@ -4,10 +4,6 @@ A simple React chat application that uses [OpenRouter](https://openrouter.ai/) t
 
 Built as a learning project to demonstrate how to integrate OpenRouter's API with React using plain etch() — no extra libraries needed.
 
-## Screenshot
-
-![Chat App](screenshot.png)
-
 ## What You'll Learn
 
 - How to sign up for OpenRouter and get an API key
