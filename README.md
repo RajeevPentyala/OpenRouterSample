@@ -73,7 +73,7 @@ We pass `nvidia/nemotron-3-super-120b-a12b:free` in our code to tell OpenRouter 
 
 ## Blog Post
 
-Read the full tutorial on my blog: [LINK TO YOUR BLOG POST]
+Read the full tutorial: [Step by Step | OpenRouter – Pick a Free AI Model and Build a React Chat App](https://rajeevpentyala.com/2026/05/21/openrouter-pick-a-free-ai-model-and-build-a-react-chat-app/)
 
 ## License
 
